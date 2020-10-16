@@ -11,7 +11,7 @@ const Admin = () => {
 
 
     useEffect(() => {
-        fetch('http://localhost:5000/allServices')
+        fetch('https://peaceful-forest-05385.herokuapp.com/allServices')
             .then(res => res.json())
             .then(data => setOrder(data))
     }, [])

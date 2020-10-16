@@ -4,7 +4,7 @@ import serviceInfo from './serviceInfo';
 
 const AllButton = () => {
 //     const handleAddService = () =>{
-//         fetch('http://localhost:5000/addService', {
+//         fetch('https://peaceful-forest-05385.herokuapp.com/addService', {
 //             method: 'POST',
 //             headers:{
 //                 'Content-Type': 'application/json'
@@ -15,7 +15,7 @@ const AllButton = () => {
 //     }
 
 //     const handleAddReview = () =>{
-//         fetch('http://localhost:5000/addReview', {
+//         fetch('https://peaceful-forest-05385.herokuapp.com/addReview', {
 //             method: 'POST',
 //             headers:{
 //                 'Content-Type': 'application/json'

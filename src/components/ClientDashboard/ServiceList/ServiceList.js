@@ -13,7 +13,7 @@ const ServiceList = () => {
     
 
     useEffect( () => {
-        fetch('http://localhost:5000/userService?email=' + loggedInUser.email)
+        fetch('https://peaceful-forest-05385.herokuapp.com/userService?email=' + loggedInUser.email)
             .then(res => res.json())
             .then(data => setUserService(data))
 

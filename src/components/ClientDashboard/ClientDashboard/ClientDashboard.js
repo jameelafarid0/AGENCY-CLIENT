@@ -14,7 +14,7 @@ const ClientDashboard = () => {
     const [file, setFile] = useState(null);
 
     const onSubmit = data => {
-        fetch('http://localhost:5000/addServiceList', {
+        fetch('https://peaceful-forest-05385.herokuapp.com/addServiceList', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(data)
