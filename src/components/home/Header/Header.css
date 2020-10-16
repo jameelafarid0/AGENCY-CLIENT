@@ -1,0 +1,7 @@
+.skewedBox{
+    background-color: #FBD062;
+    padding: 120px 0px;
+    transform: skew(0deg,  -5deg) translateY(-120px);
+    height: 750px;
+}
+
