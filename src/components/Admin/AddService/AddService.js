@@ -68,7 +68,7 @@ const AddService = () => {
                                     <label
                                         htmlFor=""><strong><h5>Service Title</h5></strong></label>
                                     <input onBlur={handleBlur}
-                                        type="text" ref={register({ required: true })} name="name"
+                                        type="text" ref={register({ required: true })} name="title"
                                         className="form-control" placeholder="Enter title" />
                                     {errors.title && <span
                                         className="text-danger">This field is required</span>}
