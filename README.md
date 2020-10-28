@@ -1,6 +1,8 @@
 ## Creative Agency
 
-#### live link: https://agency-8d527.web.app/ 
+#### live link: https://agency-8d527.web.app/
+
+#### resume: https://drive.google.com/file/d/1UGzT6EONu6tZf9Gn39Ki85psm7arf63t/view?usp=sharing
 
 ### Features:
 - home page with service list and client's feedbacks 
