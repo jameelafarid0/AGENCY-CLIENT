@@ -1,7 +1,8 @@
-##Creative Agency
-####live link: https://agency-8d527.web.app/ 
+## Creative Agency
 
-###Features:
+#### live link: https://agency-8d527.web.app/ 
+
+### Features:
 - home page with service list and client's feedbacks 
 - you can place an order for a service
 - user can provide their feedback, view it in UI.
@@ -10,7 +11,7 @@
 - admin all services that users have ordered.
 
 
-###Technology used:
+### Technology used:
 - Bootstrap
 - React JS
 - Node JS
@@ -18,7 +19,7 @@
 - Mongo DB
 - Firebase
 
-###dependency:
+### dependency:
 - react-bootstrap
 - react-dom
 - react-hook-form
